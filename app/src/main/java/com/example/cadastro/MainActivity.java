@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
         amb = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(amb.getRoot());
 
-        nome = String.valueOf(amb.nomeInpt.getText());
-
        //NOME
         amb.nomeInpt.addTextChangedListener(new TextWatcher() {
             @Override

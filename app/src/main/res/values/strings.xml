@@ -25,7 +25,7 @@
 
     <string name="inptFem">Feminino</string>
 
-    <string-array name="estados">AL
+    <string-array name="estados">
         <item>AC</item>
         <item>AL</item>
         <item>AP</item>
